@@ -1,0 +1,47 @@
+.header img{
+    height: 80px;
+}
+.header{
+    text-align: center;
+}
+.nav-item{
+    background-color: black;
+    line-height: 40px;
+}
+.nav-item a{
+    text-decoration: none;
+    margin-right: 40px;
+    color: white;
+    padding: 11px;
+}
+.nav-item a:hover{
+    background-color: white;
+    color: black;
+}
+
+.search-container{
+    background-color: #222;
+    padding: 20px;
+    color: #fff;
+}
+.search-container input{
+    width: 80%;
+    line-height: 22px;
+    font-size: 17px;
+}
+.cart-count {
+    color: #f08804;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+
+.cart-count:before {
+    font-family: FontAwesome;
+    margin-top: -30px;
+    margin-right: -5px;
+    color: #fff;
+    font-size: 24px;
+    padding-right: 10px;
+    content: "\F07A";
+}
