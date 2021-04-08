@@ -1,0 +1,14 @@
+.product-container{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 10px;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+.product-description{
+    margin-left: 20px;
+}
+.product-description h3{
+    color: blue;
+    font-weight: 300;
+}

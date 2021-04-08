@@ -35,13 +35,7 @@
     font-weight: 700;
     margin-left: 10px;
 }
-
-.cart-count:before {
-    font-family: FontAwesome;
-    margin-top: -30px;
-    margin-right: -5px;
-    color: #fff;
-    font-size: 24px;
-    padding-right: 10px;
-    content: "\F07A";
+.cart-icon{
+    padding-left: 7px;
+    font-size: 20px;
 }
