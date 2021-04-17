@@ -1,0 +1,15 @@
+
+.cart-container h3,h4{
+    text-align: center;
+}
+.cart-container{
+    font-family: sans-serif;
+}
+.cart{
+    line-height: 2px;
+    
+}
+.cart h4{
+    text-align: left;
+    color: brown;
+}

@@ -16,7 +16,7 @@ const Header = () => {
             <div className="search-container">
                <input type="text" className="search-input" placeholder="type here to search"/>
                <span className="cart-icon"><FontAwesomeIcon icon={faShoppingCart} /></span>
-               <a href="">
+               <a href="/count">
                    <span className="cart-count">0</span>
                </a>
             </div>
